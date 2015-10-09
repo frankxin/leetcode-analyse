@@ -1,3 +1,7 @@
+> Todo:   
+> * Automatic workflow
+> * Automatic sign
+
 # leetcode-analyse
 
 Here will be some leetcode questions and their analysis 
