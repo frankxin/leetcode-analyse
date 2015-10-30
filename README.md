@@ -17,5 +17,7 @@ Here will be some leetcode questions and their analysis
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [JS](./algorithms/singleNumber/singleNumber.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [JS](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.js)|Easy|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [JS](./algorithms/longestValidParentheses/longestValidParentheses.js)|Hard|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [JS](./algorithms/validParentheses/validParentheses.js)|Easy|
+
 
 
