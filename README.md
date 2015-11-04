@@ -19,6 +19,7 @@ Here will be some leetcode questions and their analysis
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [JS](./algorithms/largestRectangleInHistogram/largestRectangleInHistogram.js)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [JS](./algorithms/longestValidParentheses/longestValidParentheses.js)|Hard|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [JS](./algorithms/validParentheses/validParentheses.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JS](./algorithms/twoSum/twoSum.js)|Medium|
 
 
 
