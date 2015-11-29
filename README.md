@@ -12,6 +12,7 @@ Here will be some leetcode questions and their analysis
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)| [JS](./algorithms/rangeSumQueryMutable/rangeSumQuery.js) |Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [JS](./algorithms/addDigits/addDigits.js) [CPP](./algorithms/addDigits/addDigits.cc)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [JS](./algorithms/summaryRanges/summaryRanges.js)|Easy|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [JS](./algorithms/evaluateReversePolishNotation/evaluateReversePolishNotation.js)|Medium|
